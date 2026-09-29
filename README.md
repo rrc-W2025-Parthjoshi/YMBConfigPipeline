@@ -1,1 +1,1 @@
-# YMBConfigPipeline
+This repository contains a simple YMB banking application test project and a GitHub Actions CI pipeline. The pipeline automatically runs tests when code changes are pushed so YMB can keep a Git-based audit trail and reduce the chance of bad code reaching production.
